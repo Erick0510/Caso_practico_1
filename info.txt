@@ -1,0 +1,1 @@
+El siguiente proyecto consiste en una pantalla simple de inicio de sesion a la vez que una pantalla de usuario
